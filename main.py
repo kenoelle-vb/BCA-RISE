@@ -17,7 +17,7 @@ import base64
 # This part assumes 'BCA Rise Logo.png' and 'Blue Wallpaper.png' exist in the same directory
 # In a real deployed app, you might need to handle asset paths differently.
 try:
-    logo = Image.open("BCA Rise Logo.png")
+    logo = Image.open("BCA RISE Logo.png")
 except FileNotFoundError:
     st.warning("BCA Rise Logo.png not found. Using default Streamlit icon.")
     logo = None # Set logo to None if file not found

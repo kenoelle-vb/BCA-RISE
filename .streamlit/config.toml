@@ -1,0 +1,10 @@
+[theme]
+primaryColor = "#0160af"  # Medium slate blue (a bluish purple)
+backgroundColor = "#FFFFFF"  # White
+secondaryBackgroundColor = "#d7edff"  # Light cyan (a light bluish color)
+textColor = "#3b3b3b"  # Gray
+font = "sans-serif" 
+
+[server]
+enableCORS = false
+enableXsrfProtection = false
